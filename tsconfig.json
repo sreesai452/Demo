@@ -1,0 +1,21 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "allowJs": true,
+        "target": "es6",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "declaration": false,
+        "removeComments": true,
+        "outDir": "JSFiles",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "types": [
+            "jasmine"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
